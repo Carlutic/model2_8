@@ -1,0 +1,72 @@
+[
+ {
+  "id": 180034,
+  "name": "Matcha",
+  "displayName": "Matcha（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Matcha_9",
+  "image": "Covers/Matcha.png",
+  "pmx": "Succubus Matcha R18.pmx",
+  "base": "https://carlutic.github.io/model2_8/"
+ },
+ {
+  "id": 180038,
+  "name": "Eleanor",
+  "displayName": "Eleanor（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Eleanor_10",
+  "image": "Covers/Eleanor.png",
+  "pmx": "Succubus Eleanor R18.pmx",
+  "base": "https://carlutic.github.io/model2_8/"
+ },
+ {
+  "id": 180045,
+  "name": "Ring",
+  "displayName": "Ring（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Ring_11",
+  "image": "Covers/Ring.png",
+  "pmx": "Succubus Ring R18.pmx",
+  "base": "https://carlutic.github.io/model2_8/"
+ },
+ {
+  "id": 180048,
+  "name": "Uni",
+  "displayName": "Uni（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/Uni_12",
+  "image": "Covers/Uni.png",
+  "pmx": "Succubus Uni R18.pmx",
+  "base": "https://carlutic.github.io/model2_8/"
+ },
+ {
+  "id": 180049,
+  "name": "YanHe",
+  "displayName": "Yan He（魅魔装）",
+  "weaponType": "",
+  "element": "Model2",
+  "gender": "Female",
+  "region": "",
+  "rarity": 5,
+  "directory": "chars/YanHe_13",
+  "image": "Covers/YanHe.png",
+  "pmx": "Succubus Yan He R18.pmx",
+  "base": "https://carlutic.github.io/model2_8/"
+ }
+]
